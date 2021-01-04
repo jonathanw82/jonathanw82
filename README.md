@@ -171,14 +171,6 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 ![C++](https://img.shields.io/badge/C%2B%2B-Language-orange?style=for-the-badge&logo=c&logoColor=d54f2a&color=d54f2a)
 
 
-<details open>
-  <summary><b>Click to Toggle</b></summary>
-  <br>
-    <a href="https://github.com/jonathanw82/jonwheway">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanw82&hide=html&langs_count=4&theme=algolia&layout=compact" />
-    </a>
-</details>
-
 ### LIBRARIES & FRAMEWORKS
 ![Django](https://img.shields.io/badge/Django-Framework-blueviolet?style=for-the-badge&logo=django&logoColor=d85094&color=d85094)
 ![Flask](https://img.shields.io/badge/Flask-Framework-blueviolet?style=for-the-badge&logo=flask&logoColor=d85094&color=d85094)
@@ -193,6 +185,22 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 ![Heroku](https://img.shields.io/badge/Heroku-Other-blue?style=for-the-badge&logo=heroku&logoColor=0094d0&color=0094d0)
 ![AWS](https://img.shields.io/badge/AWS-Other-blue?style=for-the-badge&logo=amazon&logoColor=0094d0&color=0094d0)
 ![Arduino](https://img.shields.io/badge/Arduino-Other-blue?style=for-the-badge&logo=arduino&logoColor=0094d0&color=0094d0)
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jonathanw82&count_private=true&show_icons=true&hide_title=true&theme=cobalt%22" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanw82&hide=html&langs_count=4&theme=algolia&layout=compact&theme=cobalt" />
+</p>
+
+<hr>
+<p align="center">
+  <i>Let's connect and colabarate.</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jonathan-wheway/" alt="Linkedin" target="_blank"><img src=""></a>
+    <a href="https://github.com/jonathanw82" alt="GitHub" target="_blank"><img src=""></a>
+  </p>
+  
+</p>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
