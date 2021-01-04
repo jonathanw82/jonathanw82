@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/repoimage.jpg" alt="logo image" width="45%"/></a>
+  <img src="assets/repoimage.jpg" alt="logo image" width="70%"/></a>
  </div>
 
 # Welcome to my GitHub Profile
@@ -192,9 +192,9 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 </p>
 <hr>
 <p align="center">
-  <i>Let's connect and colabarate.</i>
+  <i><b>Let's connect and collaborate.</b></i>
   <p align="center">
-    <a href="https://www.linkedin.com/in/jonathan-wheway/" alt="Linkedin" target="_blank"><img src="https://github.com/jonathanw82/jonathanw82/blob/main/assets/linkedin.jpg" width="5%"></a>
+    <a href="https://www.linkedin.com/in/jonathan-wheway/" alt="Linkedin" target="_blank"><img src="https://github.com/jonathanw82/jonathanw82/blob/main/assets/linkedin.jpg"         width="5%"></a>
     <a href="https://github.com/jonathanw82" alt="GitHub" target="_blank"><img src="https://github.com/jonathanw82/jonathanw82/blob/main/assets/github.jpg" width="5%"></a>
   </p>
   
