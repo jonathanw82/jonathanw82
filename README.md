@@ -7,6 +7,7 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 
 ## 🗂️ MY WORK
 <details open>
+<summary><em><b>Note:</b> Feel free to chackout a couple of my projects below also check the pinned projects for more!</em> 😄</summary>
   <ul>
     <li>
       <h3>🐝 The Honey Combe Apiary Managemnnet</h3>
@@ -62,6 +63,42 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
           </a>
       </details>
     </li>
+     <li>
+      <h3>☕ Coffee</h3>
+      <details>
+        <summary><b>Click to Toggle Details</b></summary>
+          <br>
+          <p><b>Languages Used:</b> C++</p>
+          <br>
+          <p>
+            <a href="https://github.com/jonathanw82/Coffee">
+              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=coffee&theme=algolia" />
+            </a> 
+          </p>
+          <br>
+          <a href="https://github.com/jonathanw82/Coffee">
+            <img src="https://img.shields.io/badge/Check_Out_Readme-There_is_no_live_version_so_please_check_out_the_readme -blueviolet?style=for-the-badge&color=048BFF"/>
+          </a>
+      </details>
+    </li>
+     <li>
+      <h3>🥗 Hydroponics</h3>
+      <details>
+        <summary><b>Click to Toggle Details</b></summary>
+          <br>
+          <p><b>Languages Used:</b> C++</p>
+          <br>
+          <p>
+            <a href="https://github.com/jonathanw82/HydroBigTent/">
+              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=hydrobigtent&theme=algolia" />
+            </a> 
+          </p>
+          <br>
+          <a href="https://github.com/jonathanw82/HydroBigTent">
+            <img src="https://img.shields.io/badge/Check_Out_Readme-There_is_no_live_version_so_please_check_out_the_readme -blueviolet?style=for-the-badge&color=048BFF"/>
+          </a>
+      </details>
+    </li>
     <li>
       <h3>🍯 The Honey Pot eCommerse</h3>
       <details>
@@ -98,6 +135,24 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
           </a>
       </details>
     </li>
+     <li>
+      <h3>🏋️ Bristol Central Gym</h3>
+      <details>
+        <summary><b>Click to Toggle Details</b></summary>
+          <br>
+          <p><b>Languages Used:</b> HTML, CSS</p>
+          <br>
+          <p>
+            <a href="https://jonathanw82.github.io/bristol-central-gym/">
+              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=bristol-central-gym&theme=algolia" />
+            </a> 
+          </p>
+          <br>
+          <a href="https://jonathanw82.github.io/bristol-central-gym/">
+            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
+          </a>
+      </details>
+    </li>
   </ul>
 </details>
 
@@ -107,7 +162,7 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 ![CSS](https://img.shields.io/badge/CSS-Language-orange?style=for-the-badge&logo=css3&logoColor=d54f2a&color=d54f2a)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-orange?style=for-the-badge&logo=javascript&logoColor=d54f2a&color=d54f2a)
 ![Python](https://img.shields.io/badge/Python-Language-orange?style=for-the-badge&logo=python&logoColor=d54f2a&color=d54f2a)
-![C++](https://img.shields.io/badge/C%2B%2B-LANGUAGE-orange?style=for-the-badge&logo=c&logoColor=d54f2a&color=d54f2a)
+![C++](https://img.shields.io/badge/C%2B%2B-Language-orange?style=for-the-badge&logo=c&logoColor=d54f2a&color=d54f2a)
 
 
 <details open>
