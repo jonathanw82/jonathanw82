@@ -7,7 +7,7 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 
 ## 🗂️ MY PROJECTS
 <details open>
-### Feel free to check out some my projects below also check the pinned projects for more!
+<summary><b>Feel free to check out some my projects below also check the pinned projects for more!</b></summary>
 <summary><em><b>Note:</b> Some of the live projects are on development servers and may take a few seconds to load</em></summary>
   <ul>
     <li>
