@@ -196,8 +196,8 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
   <i>Let's connect and colabarate.</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/jonathan-wheway/" alt="Linkedin" target="_blank"><img src=""></a>
-    <a href="https://github.com/jonathanw82" alt="GitHub" target="_blank"><img src=""></a>
+    <a href="https://www.linkedin.com/in/jonathan-wheway/" alt="Linkedin" target="_blank"><img src="https://github.com/jonathanw82/jonathanw82/blob/main/assets/linkedin.jpg" width="10%"></a>
+    <a href="https://github.com/jonathanw82" alt="GitHub" target="_blank"><img src="https://github.com/jonathanw82/jonathanw82/blob/main/assets/github.jpg" width="10%"></a>
   </p>
   
 </p>
