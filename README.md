@@ -7,7 +7,8 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 
 ## 🗂️ MY PROJECTS
 <details open>
-<summary><em><b>Note:</b> Feel free to check out some my projects below also check the pinned projects for more!</em> 😄</summary>
+### Feel free to check out some my projects below also check the pinned projects for more!
+<summary><em><b>Note:</b> Some of the live projects are on development servers and may take a few seconds to load</em></summary>
   <ul>
     <li>
       <h3>🐝 The Honey Combe Apiary Managemnnet</h3>
