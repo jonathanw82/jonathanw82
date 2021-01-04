@@ -5,9 +5,9 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 - 🐝 BeeKeeper.
 - 🌿 Keen Gardener, helps relax after a hard days coding.
 
-## 🗂️ MY WORK
+## 🗂️ MY PROJETCS
 <details open>
-<summary><em><b>Note:</b> Feel free to chackout a couple of my projects below also check the pinned projects for more!</em> 😄</summary>
+<summary><em><b>Note:</b> Feel free to chack my projects below also check the pinned projects for more!</em> 😄</summary>
   <ul>
     <li>
       <h3>🐝 The Honey Combe Apiary Managemnnet</h3>
