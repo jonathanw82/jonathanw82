@@ -18,7 +18,7 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
           <p><b>Languages Used:</b> HTML, CSS, Python, Django, C++</p>
           <br>
           <p>
-            <a href="https://honeycomb-am.herokuapp.com/">
+            <a href="https://github.com/jonathanw82/thehoneycombAM">
               <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=thehoneycombAM&theme=algolia" />
             </a>
           </p>
@@ -36,7 +36,7 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
           <p><b>Languages Used:</b> HTML, CSS, Javascript, Python, Flask</p>
           <br>
           <p>
-            <a href="http://www.eastbristolhops.co.uk/">
+            <a href="https://github.com/jonathanw82/eastbristolhops">
               <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=eastbristolhops&theme=algolia" />
             </a>
            </p>
@@ -108,7 +108,7 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
           <p><b>Languages Used:</b> HTML, CSS, Javascript, Python, Django</p>
           <br>
           <p>
-            <a href="https://jonathanw82-the-honey-pot.herokuapp.com/">
+            <a href="https://github.com/jonathanw82/the-honey-pot">
               <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=the-honey-pot&theme=algolia" />
             </a> 
           </p>
@@ -126,7 +126,7 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
           <p><b>Languages Used:</b> HTML, CSS, Javascript, Python</p>
           <br>
           <p>
-            <a href="https://jonathanw82-canshare.herokuapp.com/">
+            <a href="https://github.com/jonathanw82/Can_Share/">
               <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=can_share&theme=algolia" />
             </a> 
           </p>
@@ -144,7 +144,7 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
           <p><b>Languages Used:</b> HTML, CSS</p>
           <br>
           <p>
-            <a href="https://jonathanw82.github.io/bristol-central-gym/">
+            <a href="https://github.com/jonathanw82/bristol-central-gym">
               <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=bristol-central-gym&theme=algolia" />
             </a> 
           </p>
