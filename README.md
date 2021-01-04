@@ -2,7 +2,8 @@
 
 My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 - 🎓 Graduated with a Merit from Code Institute with a Diploma in Software Development.
-- 🐝 BeeKeeper.
+- 💻 Always playing with new ideas and leaning and utilising different coding languages.
+- 🐝 BeeKeeper, giving nature a helping hand.
 - 🌿 Keen Gardener, helps relax after a hard days coding.
 
 ## 🗂️ MY PROJECTS
