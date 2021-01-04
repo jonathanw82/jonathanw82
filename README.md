@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/repoimage.jpg" alt="logo image" width="45%"/></a>
+ </div>
+
 # Welcome to my GitHub Profile
 
 My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
