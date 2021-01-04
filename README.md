@@ -187,8 +187,8 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 ![Arduino](https://img.shields.io/badge/Arduino-Other-blue?style=for-the-badge&logo=arduino&logoColor=0094d0&color=0094d0)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonathanw82&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanw82&hide=html&langs_count=4&theme=algolia&layout=compact&theme=cobalt" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jonathanw82&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />       
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanw82&layout=compact&theme=cobalt" />
 </p>
 <hr>
 <p align="center">
