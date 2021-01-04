@@ -187,17 +187,15 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 ![Arduino](https://img.shields.io/badge/Arduino-Other-blue?style=for-the-badge&logo=arduino&logoColor=0094d0&color=0094d0)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonathanw82&count_private=true&show_icons=true&hide_title=true&theme=cobalt%22" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jonathanw82&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanw82&hide=html&langs_count=4&theme=algolia&layout=compact&theme=cobalt" />
 </p>
-
 <hr>
 <p align="center">
   <i>Let's connect and colabarate.</i>
-
   <p align="center">
-    <a href="https://www.linkedin.com/in/jonathan-wheway/" alt="Linkedin" target="_blank"><img src="https://github.com/jonathanw82/jonathanw82/blob/main/assets/linkedin.jpg" width="10%"></a>
-    <a href="https://github.com/jonathanw82" alt="GitHub" target="_blank"><img src="https://github.com/jonathanw82/jonathanw82/blob/main/assets/github.jpg" width="10%"></a>
+    <a href="https://www.linkedin.com/in/jonathan-wheway/" alt="Linkedin" target="_blank"><img src="https://github.com/jonathanw82/jonathanw82/blob/main/assets/linkedin.jpg" width="5%"></a>
+    <a href="https://github.com/jonathanw82" alt="GitHub" target="_blank"><img src="https://github.com/jonathanw82/jonathanw82/blob/main/assets/github.jpg" width="5%"></a>
   </p>
   
 </p>
