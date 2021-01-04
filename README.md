@@ -130,6 +130,8 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 ![Photoshop](https://img.shields.io/badge/Photoshop-Other-blue?style=for-the-badge&logo=adobe-photoshop&logoColor=0094d0&color=0094d0)
 ![GitHub](https://img.shields.io/badge/GitHub-Other-blue?style=for-the-badge&logo=github&logoColor=0094d0&color=0094d0)
 ![Heroku](https://img.shields.io/badge/Heroku-Other-blue?style=for-the-badge&logo=heroku&logoColor=0094d0&color=0094d0)
+![AWS](https://img.shields.io/badge/AWS-Other-blue?style=for-the-badge&logo=amazon&logoColor=0094d0&color=0094d0)
+![Arduino](https://img.shields.io/badge/Arduino-Other-blue?style=for-the-badge&logo=arduino&logoColor=0094d0&color=0094d0)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
