@@ -11,7 +11,7 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 <summary><em><b>Note:</b> Some of the live projects are on development servers and may take a few seconds to load</em></summary>
   <ul>
     <li>
-      <h3>🐝 The Honey Combe Apiary Managemnnet</h3>
+      <h3>🐝 The Honey Combe Apiary Management (Work in progress)</h3>
       <details>
         <summary><b>Click to Toggle Details</b></summary>
           <br>
