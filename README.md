@@ -180,11 +180,16 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 
 ### OTHER STUFF
 ![VSCode](https://img.shields.io/badge/VSCode-Other-blue?style=for-the-badge&logo=visual-studio&logoColor=0094d0&color=0094d0)
+![PYCHARM](https://img.shields.io/badge/Pycharm_(Still_learning)-Other-blue?style=for-the-badge&logo=pycharm&logoColor=0094d0&color=0094d0)
+![LINUX](https://img.shields.io/badge/Linux-Other-blue?style=for-the-badge&logo=linux&logoColor=0094d0&color=0094d0)
+![WINDOWS](https://img.shields.io/badge/WINDOWS-Other-blue?style=for-the-badge&logo=windows&logoColor=0094d0&color=0094d0)
 ![Photoshop](https://img.shields.io/badge/Photoshop-Other-blue?style=for-the-badge&logo=adobe-photoshop&logoColor=0094d0&color=0094d0)
 ![GitHub](https://img.shields.io/badge/GitHub-Other-blue?style=for-the-badge&logo=github&logoColor=0094d0&color=0094d0)
 ![Heroku](https://img.shields.io/badge/Heroku-Other-blue?style=for-the-badge&logo=heroku&logoColor=0094d0&color=0094d0)
 ![AWS](https://img.shields.io/badge/AWS-Other-blue?style=for-the-badge&logo=amazon&logoColor=0094d0&color=0094d0)
 ![Arduino](https://img.shields.io/badge/Arduino-Other-blue?style=for-the-badge&logo=arduino&logoColor=0094d0&color=0094d0)
+![Slack](https://img.shields.io/badge/Slack-Other-blue?style=for-the-badge&logo=slack&logoColor=0094d0&color=0094d0)
+![Discord](https://img.shields.io/badge/Discord-Other-blue?style=for-the-badge&logo=discord&logoColor=0094d0&color=0094d0)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jonathanw82&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />       
