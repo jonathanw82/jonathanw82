@@ -16,7 +16,7 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
 <summary><em><b>Note:</b> Some of the live projects are on development servers and may take a few seconds to load</em></summary>
   <ul>
     <li>
-      <h3>🐝 The Honey Combe Apiary Management (Work in progress)</h3>
+      <h3>🐝 Apis Metrics Apiary Management (Work in progress)</h3>
       <details>
         <summary><b>Click to Toggle Details</b></summary>
           <br>
@@ -28,7 +28,7 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
             </a>
           </p>
           <br>
-          <a href="https://honeycomb-am.herokuapp.com/">
+          <a href="https://apis-metrics.herokuapp.com/">
             <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
           </a>
       </details>
