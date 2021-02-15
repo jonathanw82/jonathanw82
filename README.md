@@ -59,7 +59,7 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
           <p><b>Languages Used:</b> HTML, CSS, Javascript</p>
           <br>
           <p>
-            <a href="https://jonathanw82.github.io/myfavoritetune/">
+            <a href="https://github.com/jonathanw82/myfavoritetune/">
               <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=myfavoritetune&theme=algolia" />
             </a> 
           </p>
