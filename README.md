@@ -33,6 +33,18 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
           </a>
       </details>
     </li>
+     <li>
+      <h3>🖥️ Mitchell Soft Technology</h3>
+      <details>
+        <summary><b>Click to Toggle Details</b></summary>
+          <br>
+          <p><b>Languages Used:</b> HTML, CSS, Javascript</p>
+          <br>
+          <a href="https://mitchellsofttechnology.github.io/mitchellsoft/">
+            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
+          </a>
+      </details>
+    </li>
     <li>
       <h3>🌱 East Bristol Hops</h3>
       <details>
