@@ -216,25 +216,6 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
   </p>
   
 </p>
-<svg class="js-activity-overview-graph mx-auto d-block" xmlns="http://www.w3.org/2000/svg" width="260" height="221">
-      <g transform="translate(-20.03125, -46.375)">
-        <path class="js-highlight-blob" stroke-linejoin="round" fill="#40c463" stroke="#40c463" stroke-width="7" d="M157,154.46875 L157.84375,157 L157,160.375 L83.375,157 z"></path>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-x-axis activity-overview-axis " x1="79.375" y1="157" x2="234.625" y2="157"></line>
-        <line stroke-width="2" stroke-linecap="round" class="js-highlight-y-axis activity-overview-axis " x1="157" y1="79.375" x2="157" y2="234.625"></line>
-        <ellipse class="activity-overview-point js-highlight-top-ellipse " rx="3" ry="3" stroke-width="2" fill="white" cx="157" cy="152.46875"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-right-ellipse " rx="3" ry="3" stroke-width="2" fill="white" cx="159.84375" cy="157"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-bottom-ellipse " rx="3" ry="3" stroke-width="2" fill="white" cx="157" cy="162.375"></ellipse>
-        <ellipse class="activity-overview-point js-highlight-left-ellipse " rx="3" ry="3" stroke-width="2" fill="white" cx="81.375" cy="157"></ellipse>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-top" dx="157" dy="55.375">3%</text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-top" dx="157" dy="69.375">Code review</text>
-        <text text-anchor="start" class="activity-overview-percentage js-highlight-percent-right" dy="154.5" dx="254.6875">1%</text>
-        <text text-anchor="start" class="text-small activity-overview-label js-highlight-label-right" dy="168.5" dx="244.625">Issues</text>
-        <text text-anchor="middle" class="activity-overview-percentage js-highlight-percent-bottom" dx="157" dy="249.625">4%</text>
-        <text text-anchor="middle" class="text-small activity-overview-label js-highlight-label-bottom" dx="157" dy="263.625">Pull requests</text>
-        <text text-anchor="end" class="activity-overview-percentage js-highlight-percent-left" dy="154.5" dx="53.765625">92%</text>
-        <text text-anchor="end" class="text-small activity-overview-label js-highlight-label-left" dy="168.5" dx="67.375">Commits</text>
-      </g>
-    </svg>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
