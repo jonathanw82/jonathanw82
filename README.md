@@ -26,6 +26,11 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
               <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=thehoneycombAM&theme=algolia" />
           
           </p>
+          <br>
+            <a href="http://www.eastbristolhops.co.uk/">
+            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
+          </a>
+          
       </details>
     </li>
      <li>
