@@ -23,14 +23,11 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
           <p><b>Languages Used:</b> HTML, CSS, Python, Django, C++</p>
           <br>
           <p>
+          <a href="https://github.com/jonathanw82/thehoneycombAM">
               <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=thehoneycombAM&theme=algolia" />
-          
+          </a>
           </p>
           <br>
-            <a href="http://www.eastbristolhops.co.uk/">
-            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
-          </a>
-          
       </details>
     </li>
      <li>
@@ -130,9 +127,6 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
             </a> 
           </p>
           <br>
-          <a href="https://jonathanw82-the-honey-pot.herokuapp.com/">
-            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
-          </a>
       </details>
     </li>
     <li>
@@ -148,9 +142,6 @@ My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
             </a> 
           </p>
           <br>
-          <a href="https://jonathanw82-canshare.herokuapp.com/">
-            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
-          </a>
       </details>
     </li>
      <li>
