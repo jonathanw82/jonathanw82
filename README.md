@@ -2,17 +2,13 @@
   <img src="assets/repoimage.jpg" alt="logo image" width="70%"/></a>
  </div>
 
-# Welcome to my GitHub Profile
+# Welcome
 
-My name is Jon Wheway and I'm a Junior Full Stack Software Developer...
-- 🎓 Graduated with a Merit from Code Institute with a Diploma in Software Development.
-- 💻 Always playing with new ideas, learning and utilising different coding languages.
-- 🐝 BeeKeeper, giving nature a helping hand.
-- 🌿 Keen Gardener, helps relax after a hard days coding.
+Jon Wheway, Junior Full Stack Software Developer – a Merit graduate from Code Institute's Software Development program. I'm driven by exploring new coding languages and turning ideas into reality. Outside of tech, I'm a beekeeper passionate about supporting nature and a keen gardener who appreciates the tranquility it brings after a day of coding.
 
 ## 🗂️ MY PROJECTS
 <details open>
-<summary><b>Feel free to check out some my projects below also check the pinned projects for more!</b></summary>
+<summary><b>Some of my projects below also check the pinned projects for more!</b></summary>
 <summary><em><b>Note:</b> Some of the live projects are on development servers and may take a few seconds to load</em></summary>
   <ul>
     <li>
