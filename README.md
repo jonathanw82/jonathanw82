@@ -4,7 +4,7 @@
 
 # Welcome
 
-Jon Wheway, Junior Full Stack Software Developer – a Merit graduate from Code Institute's Software Development program. I'm driven by exploring new coding languages and turning ideas into reality. Outside of tech, I'm a beekeeper passionate about supporting nature and a keen gardener who appreciates the tranquility it brings after a day of coding.
+My name is Jon Wheway, and I'm a Junior Full Stack Software Developer with a Merit-awarded Diploma in Software Development from Code Institute. I'm a proactive learner, consistently exploring and applying new coding languages to bring innovative ideas to life. Beyond the digital realm, I'm a dedicated beekeeper, actively contributing to environmental well-being, and a keen gardener, finding relaxation and balance in nurturing nature after a day of coding.
 
 ## 🗂️ MY PROJECTS
 <details open>
