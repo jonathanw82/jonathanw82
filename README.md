@@ -9,157 +9,72 @@ My name is Jon Wheway, and I'm a Junior Full Stack Software Developer with a Mer
 ## 🗂️ MY PROJECTS
 <details open>
 <summary><b>Some of my projects below also check the pinned projects for more!</b></summary>
-<summary><em><b>Note:</b> Some of the live projects are on development servers and may take a few seconds to load</em></summary>
-  <ul>
-    <li>
-      <h3>🐝 Apis Metrics Apiary Management (Work in progress)</h3>
-      <details>
-        <summary><b>Click to Toggle Details</b></summary>
-          <br>
-          <p><b>Languages Used:</b> HTML, CSS, Python, Django, C++</p>
-          <br>
-          <p>
-          <a href="https://github.com/jonathanw82/thehoneycombAM">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=thehoneycombAM&theme=algolia" />
-          </a>
-          </p>
-          <br>
-      </details>
-    </li>
-     <li>
-      <h3>🖥️ Mitchell Soft Technology</h3>
-      <details>
-        <summary><b>Click to Toggle Details</b></summary>
-          <br>
-          <p><b>Languages Used:</b> HTML, CSS, Javascript</p>
-          <br>
-          <a href="https://mitchellsofttechnology.github.io/mitchellsoft/">
-            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
-          </a>
-      </details>
-    </li>
-    <li>
-      <h3>🌱 East Bristol Hops</h3>
-      <details>
-        <summary><b>Click to Toggle Details</b></summary>
-          <br>
-          <p><b>Languages Used:</b> HTML, CSS, Javascript, Python, Flask</p>
-          <br>
-          <p>
-            <a href="https://github.com/jonathanw82/eastbristolhops">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=eastbristolhops&theme=algolia" />
-            </a>
-           </p>
-          <br>
-          <a href="http://www.eastbristolhops.co.uk/">
-            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
-          </a>
-      </details>
-    </li>
-    <li>
-      <h3>🎧 Music & Tracks</h3>
-      <details>
-        <summary><b>Click to Toggle Details</b></summary>
-          <br>
-          <p><b>Languages Used:</b> HTML, CSS, Javascript</p>
-          <br>
-          <p>
-            <a href="https://github.com/jonathanw82/myfavoritetune/">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=myfavoritetune&theme=algolia" />
-            </a> 
-          </p>
-          <br>
-          <a href="https://jonathanw82.github.io/myfavoritetune/">
-            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
-          </a>
-      </details>
-    </li>
-     <li>
-      <h3>☕ Coffee</h3>
-      <details>
-        <summary><b>Click to Toggle Details</b></summary>
-          <br>
-          <p><b>Languages Used:</b> C++</p>
-          <br>
-          <p>
-            <a href="https://github.com/jonathanw82/Coffee">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=coffee&theme=algolia" />
-            </a> 
-          </p>
-          <br>
-          <a href="https://github.com/jonathanw82/Coffee">
-            <img src="https://img.shields.io/badge/Check_Out_Readme-There_is_no_live_version_so_please_check_out_the_readme -blueviolet?style=for-the-badge&color=048BFF"/>
-          </a>
-      </details>
-    </li>
-     <li>
-      <h3>🥗 Hydroponics</h3>
-      <details>
-        <summary><b>Click to Toggle Details</b></summary>
-          <br>
-          <p><b>Languages Used:</b> C++</p>
-          <br>
-          <p>
-            <a href="https://github.com/jonathanw82/HydroBigTent/">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=hydrobigtent&theme=algolia" />
-            </a> 
-          </p>
-          <br>
-          <a href="https://github.com/jonathanw82/HydroBigTent">
-            <img src="https://img.shields.io/badge/Check_Out_Readme-There_is_no_live_version_so_please_check_out_the_readme -blueviolet?style=for-the-badge&color=048BFF"/>
-          </a>
-      </details>
-    </li>
-    <li>
-      <h3>🍯 The Honey Pot eCommerse</h3>
-      <details>
-        <summary><b>Click to Toggle Details</b></summary>
-          <br>
-          <p><b>Languages Used:</b> HTML, CSS, Javascript, Python, Django</p>
-          <br>
-          <p>
-            <a href="https://github.com/jonathanw82/the-honey-pot">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=the-honey-pot&theme=algolia" />
-            </a> 
-          </p>
-          <br>
-      </details>
-    </li>
-    <li>
-      <h3>🍺 Can Share</h3>
-      <details>
-        <summary><b>Click to Toggle Details</b></summary>
-          <br>
-          <p><b>Languages Used:</b> HTML, CSS, Javascript, Python</p>
-          <br>
-          <p>
-            <a href="https://github.com/jonathanw82/Can_Share/">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=can_share&theme=algolia" />
-            </a> 
-          </p>
-          <br>
-      </details>
-    </li>
-     <li>
-      <h3>🏋️ Bristol Central Gym</h3>
-      <details>
-        <summary><b>Click to Toggle Details</b></summary>
-          <br>
-          <p><b>Languages Used:</b> HTML, CSS</p>
-          <br>
-          <p>
-            <a href="https://github.com/jonathanw82/bristol-central-gym">
-              <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=bristol-central-gym&theme=algolia" />
-            </a> 
-          </p>
-          <br>
-          <a href="https://jonathanw82.github.io/bristol-central-gym/">
-            <img src="https://img.shields.io/badge/Check_Out-Live_Page-blueviolet?style=for-the-badge&color=048BFF"/>
-          </a>
-      </details>
-    </li>
-  </ul>
-</details>
+
+  <h3>☕ Gaggia Classic Coffee Machine Upgrade</h3>
+  <p><b>Languages Used:</b> C++</p>
+  <p>
+    <a href="https://github.com/jonathanw82/Coffee">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=coffee&theme=algolia" />
+    </a> 
+  </p>
+
+  <h3>🎲 Disco Bingo</h3>
+  <p><b>Languages Used:</b> HTML, CSS, Javascript</p>
+  <p>
+    <a href="https://github.com/jonathanw82/bingo">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=bingo&theme=algolia" />
+    </a>
+  </p>
+
+  <h3>🎧 Music & Tracks</h3>
+  <p><b>Languages Used:</b> HTML, CSS, Javascript</p>
+  <p>
+    <a href="https://github.com/jonathanw82/myfavoritetune/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=myfavoritetune&theme=algolia" />
+    </a> 
+  </p>
+
+  <h3>🖥️ Mitchell Soft Technology</h3>
+  <p><b>Languages Used:</b> HTML, CSS, Javascript</p>
+  <a href="https://jonathanw82.github.io/mitchellsoft/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=mitchellsoft&theme=algolia"/>
+  </a>
+
+  <h3>🥗 Hydroponics</h3>
+  <p><b>Languages Used:</b> C++</p>
+  <p>
+    <a href="https://github.com/jonathanw82/HydroBigTent/">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=hydrobigtent&theme=algolia" />
+    </a> 
+  </p>
+
+  <h3>🪭 Fanspeed Control</h3>
+  <p><b>Languages Used:</b> C++</p>
+  <p>
+    <a href="https://github.com/jonathanw82/Fan_speed_control">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=Fan_speed_control&theme=algolia" />
+    </a> 
+  </p>
+
+  <h3>🐝 Apis Metrics Apiary Management (Work in progress)</h3>
+  <p><b>Languages Used:</b> HTML, CSS, Python, Django, C++</p>
+  <p>
+    <a href="https://github.com/jonathanw82/thehoneycombAM">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=thehoneycombAM&theme=algolia" />
+    </a>
+  </p>
+
+ <h3>🛜 Network Test</h3>
+ <p><b>Languages Used:</b> Python</p>
+  <p>
+  <a href="https://github.com/jonathanw82/network_test">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=network_test&theme=algolia" />
+  </a>
+</p>
+
+     
+   
+    
 
 ## 💻 TECHNOLOGIES & TOOLS I USE
 ### LANGUAGES
@@ -189,6 +104,7 @@ My name is Jon Wheway, and I'm a Junior Full Stack Software Developer with a Mer
 ![Arduino](https://img.shields.io/badge/Arduino-Other-blue?style=for-the-badge&logo=arduino&logoColor=0094d0&color=0094d0)
 ![Slack](https://img.shields.io/badge/Slack-Other-blue?style=for-the-badge&logo=slack&logoColor=0094d0&color=0094d0)
 ![Discord](https://img.shields.io/badge/Discord-Other-blue?style=for-the-badge&logo=discord&logoColor=0094d0&color=0094d0)
+![Kicad](https://img.shields.io/badge/Kicad-Other-blue?style=for-the-badge&logo=Kicad&logoColor=0094d0&color=0094d0)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jonathanw82&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />       
