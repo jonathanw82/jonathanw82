@@ -18,6 +18,15 @@ My name is Jon Wheway, and I'm a Junior Full Stack Software Developer with a Mer
     </a> 
   </p>
 
+  <h3>☕ Hvac control for germination enviroments</h3>
+  <p><b>Languages Used:</b> C++, HTML, CSS, Javascript, Python</p>
+   <p><b>Frameworks Used:</b> Django</p>
+  <p>
+    <a href="https://github.com/jonathanw82/Hvac_controlReadme">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=Hvac_controlReadme&theme=algolia" />
+    </a> 
+  </p>
+
   <h3>🎲 Disco Bingo</h3>
   <p><b>Languages Used:</b> HTML, CSS, Javascript</p>
   <p>
