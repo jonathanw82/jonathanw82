@@ -11,8 +11,7 @@ My name is Jon Wheway, and I'm a Junior Full Stack Software Developer with a Mer
 <summary><b>Some of my projects below also check the pinned projects for more!</b></summary>
 
   <h3>🌻 Demo Stand for Chelsea Flower Show</h3>
-  <p><b>Languages Used:</b> C++, HTML, CSS, Javascript, Python</p>
-   <p><b>Frameworks Used:</b> Django</p>
+  <p><b>Languages Used:</b> C++</p>
   <p>
     <a href="https://github.com/jonathanw82/aero_demo">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=aero_demo&theme=algolia" />
