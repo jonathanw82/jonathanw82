@@ -18,7 +18,7 @@ My name is Jon Wheway, and I'm a Junior Full Stack Software Developer with a Mer
     </a> 
   </p>
 
-  <h3>☕ Hvac control for germination enviroments</h3>
+  <h3>🌻 Hvac control for germination enviroments</h3>
   <p><b>Languages Used:</b> C++, HTML, CSS, Javascript, Python</p>
    <p><b>Frameworks Used:</b> Django</p>
   <p>
