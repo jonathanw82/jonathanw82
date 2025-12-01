@@ -19,80 +19,60 @@ My name is Jon Wheway, and I'm a Junior Full Stack Software Developer with a Mer
   <h3>🌻 Demo Stand for Chelsea Flower Show</h3>
   <p><b>Languages Used:</b> C++</p>
   <p>
-    <a href="https://github.com/jonathanw82/aero_demo">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=aero_demo&theme=algolia" />
-    </a> 
+    <a href="https://github.com/jonathanw82/aero_demo">Aero Demo</a> 
   </p>
 
   <h3>☕ Gaggia Classic Coffee Machine Upgrade</h3>
   <p><b>Languages Used:</b> C++</p>
   <p>
-    <a href="https://github.com/jonathanw82/Coffee">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=coffee&theme=algolia" />
-    </a> 
+    <a href="https://github.com/jonathanw82/Coffee">Coffee Machine</a> 
   </p>
 
   <h3>🌻 Hvac control for germination enviroments</h3>
   <p><b>Languages Used:</b> C++, HTML, CSS, Javascript, Python</p>
    <p><b>Frameworks Used:</b> Django</p>
   <p>
-    <a href="https://github.com/jonathanw82/Hvac_controlReadme">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=Hvac_controlReadme&theme=algolia" />
-    </a> 
+    <a href="https://github.com/jonathanw82/Hvac_controlReadme">Hvac Controller</a> 
   </p>
 
   <h3>🎲 Disco Bingo</h3>
   <p><b>Languages Used:</b> HTML, CSS, Javascript</p>
   <p>
-    <a href="https://github.com/jonathanw82/bingo">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=bingo&theme=algolia" />
-    </a>
+    <a href="https://github.com/jonathanw82/bingo">Disco Bingo</a>
   </p>
 
   <h3>🎧 Music & Tracks</h3>
   <p><b>Languages Used:</b> HTML, CSS, Javascript</p>
   <p>
-    <a href="https://github.com/jonathanw82/myfavoritetune/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=myfavoritetune&theme=algolia" />
-    </a> 
+    <a href="https://github.com/jonathanw82/myfavoritetune/">Music & Tracks</a> 
   </p>
 
   <h3>🖥️ Mitchell Soft Technology</h3>
   <p><b>Languages Used:</b> HTML, CSS, Javascript</p>
-  <a href="https://jonathanw82.github.io/mitchellsoft/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=mitchellsoft&theme=algolia"/>
-  </a>
+  <a href="https://jonathanw82.github.io/mitchellsoft/">Mitchelsoft Technologies</a>
 
   <h3>🥗 Hydroponics</h3>
   <p><b>Languages Used:</b> C++</p>
   <p>
-    <a href="https://github.com/jonathanw82/HydroBigTent/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=hydrobigtent&theme=algolia" />
-    </a> 
+    <a href="https://github.com/jonathanw82/HydroBigTent/">Hydroponic controller</a> 
   </p>
 
   <h3>🪭 Fanspeed Control</h3>
   <p><b>Languages Used:</b> C++</p>
   <p>
-    <a href="https://github.com/jonathanw82/Fan_speed_control">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=Fan_speed_control&theme=algolia" />
-    </a> 
+    <a href="https://github.com/jonathanw82/Fan_speed_control">Fan speed controller</a> 
   </p>
 
   <h3>🐝 Apis Metrics Apiary Management (Work in progress)</h3>
   <p><b>Languages Used:</b> HTML, CSS, Python, Django, C++</p>
   <p>
-    <a href="https://github.com/jonathanw82/thehoneycombAM">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=thehoneycombAM&theme=algolia" />
-    </a>
+    <a href="https://github.com/jonathanw82/thehoneycombAM">HoneycombeAM </a>
   </p>
 
  <h3>🛜 Network Test</h3>
  <p><b>Languages Used:</b> Python</p>
   <p>
-  <a href="https://github.com/jonathanw82/network_test">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonathanw82&repo=network_test&theme=algolia" />
-  </a>
+  <a href="https://github.com/jonathanw82/network_test">Network Test</a>
 </p>
 
      
