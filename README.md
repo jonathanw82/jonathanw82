@@ -3,8 +3,7 @@
  </div>
 
 # Welcome
-
-My name is Jon Wheway, and I'm a Junior Full Stack Software Developer with a Merit-awarded Diploma in Software Development from Code Institute. I'm a proactive learner, consistently exploring and applying new coding languages to bring innovative ideas to life. Beyond the digital realm, I'm a dedicated beekeeper, actively contributing to environmental well-being, and a keen gardener, finding relaxation and balance in nurturing nature after a day of coding.
+I am a Junior Software Developer and Delivery Lead specializing in bridging the gap between hardware and software. With over 20 years of technical experience and a Merit-awarded Diploma in Software Development, I leverage a background in Embedded C, Python, and Full Stack technologies to manage complex systems from conception to commissioning. I am a collaborative, proactive learner who thrives on applying new languages to solve real-world problems. Outside of development, I maintain balance through beekeeping and gardening, reflecting my commitment to environmental well-being.
 
 ## 🗂️ MY PROJECTS
 <details open>
