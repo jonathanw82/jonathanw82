@@ -22,6 +22,12 @@ My name is Jon Wheway, and I'm a Junior Full Stack Software Developer with a Mer
     <a href="https://github.com/jonathanw82/aero_demo">Aero Demo</a> 
   </p>
 
+   <h3>🌻 Sensor Platform for a vertical farm</h3>
+  <p><b>Languages Used:</b> C++</p>
+  <p>
+    <a href="https://github.com/jonathanw82/Vertical-farm-sensor-platform">Sensor Platform for a vertical farm</a> 
+  </p>
+
   <h3>☕ Gaggia Classic Coffee Machine Upgrade</h3>
   <p><b>Languages Used:</b> C++</p>
   <p>
