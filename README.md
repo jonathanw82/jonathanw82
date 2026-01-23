@@ -3,7 +3,7 @@
  </div>
 
 # Welcome
-I am a Junior Software Developer and Delivery Lead specializing in bridging the gap between hardware and software. With over 20 years of technical experience and a Merit-awarded Diploma in Software Development, I leverage a background in Embedded C, Python, and Full Stack technologies to manage complex systems from conception to commissioning. I am a collaborative, proactive learner who thrives on applying new languages to solve real-world problems. Outside of development, I maintain balance through beekeeping and gardening, reflecting my commitment to environmental well-being.
+I am a Junior Software Developer and Delivery Lead specialising in bridging the gap between hardware and software. With over 20 years of technical experience and a Merit-awarded Diploma in Software Development, I leverage a background in Embedded C, Python, and Full Stack technologies to manage complex systems from conception to commissioning. I am a collaborative, proactive learner who thrives on applying new languages to solve real-world problems. Outside of development, I maintain balance through beekeeping and gardening, reflecting my commitment to environmental well-being.
 
 ## 🗂️ MY PROJECTS
 <details open>
