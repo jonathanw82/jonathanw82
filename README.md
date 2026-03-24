@@ -3,7 +3,7 @@
  </div>
 
 # Welcome
-I am a Software Developer and Delivery Lead specialising in bridging the gap between hardware and software. With over 20 years of technical experience and a Merit-awarded Diploma in Software Development, I leverage a background in Embedded C, Python, and Full Stack technologies to manage complex systems from conception to commissioning. I am a collaborative, proactive learner who thrives on applying new languages to solve real-world problems. Outside of development, I maintain balance through beekeeping and gardening, reflecting my commitment to environmental well-being.
+I am a Software Developer and Delivery Lead specialising in bridging the gap between hardware and software. With over 20 years of technical experience in the engineering sector, coupled with a Merit-awarded level 5 Diploma in Software Development, credit-rated by Edinburgh Napier University, I leverage a background in Embedded C, Python, and Full Stack technologies to manage complex systems from conception to commissioning. I am a collaborative, proactive learner who thrives on applying new languages to solve real-world problems. Outside of development, I maintain balance through beekeeping and gardening, reflecting my commitment to environmental well-being.
 
 ## 🗂️ MY PROJECTS
 <details open>
